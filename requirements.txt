@@ -1,0 +1,13 @@
+# brew update && brew install gcc (this includes gfortran)
+ipython
+pyzmq
+Pillow
+numpy
+scipy
+scikit-learn
+matplotlib
+graphviz
+pyparsing
+pydot
+pandas
+watermark
